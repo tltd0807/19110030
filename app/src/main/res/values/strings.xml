@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get Web Page Source Code</string>
+    <string-array name="http_array">
+        <item name="http">http://</item>
+        <item name="https">https://</item>
+    </string-array>
+</resources>
